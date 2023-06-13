@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milka-wanga" alt="milka-wanga" /></a> </p>
 
-- 🔭 I’m currently working on **Reustarant**
+- 🔭 I’m currently working on **Reustarant App**
 
 - 🌱 I’m currently learning **Laravel by code step by step**
 
